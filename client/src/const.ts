@@ -34,8 +34,8 @@ export const LUNARA_LETTERS = [
 ];
 
 export const LUNARA_AMBASSADORS = [
-  { name: "Fenni Aprilia", phone: "+62 895-3650-80820", role: "Ambassador" },
-  { name: "M. Syafrudin", phone: "+62 821-8284-6782", role: "Ambassador" },
+  { name: "Julia Kasmir", phone: "+62 831-5379-7905", role: "Ambassador" },
+  { name: "Hutama Narendra K.", phone: "+62 816-3224-1679", role: "Ambassador" },
 ];
 
 export const LUNARA_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScg1CTWs2sKd50q5Bv3ps7Epa4YhhfugD4vBbxZs0YYKg5TDQ/viewform";
